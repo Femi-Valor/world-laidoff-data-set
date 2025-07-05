@@ -80,7 +80,7 @@ It was a CSV file from kaggle
 Accoriding to thee analysis, the highest people laidoff imn 2020 are from the transportation industry,while for the remaining years(2021, 2022, 2023) the highest people laid off are from the consumer industry.
 we can say the covid 19 pandemic affected the trasportation sector in 2020, that caused people not to travel so workers were laidoff when there was no service to render to the public.
 
-   - <a href="https://github.com/Femi-Valor/world-laidoff-data-set/blob/main/DOC/LAIDOFF%20SQL%20PROJECT.sql>click here to download  sql query used
+   - <a href="https://github.com/Femi-Valor/world-laidoff-data-set/blob/main/DOC/LAIDOFF%20SQL%20PROJECT.sql">click here to download  sql query used
 
 
 
